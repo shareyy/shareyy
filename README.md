@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2> Hey there! I'm Sharey.</h2>
 
-<!--
-**shareyy/shareyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Working as a freelancer and an intern.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C++ | C | C#
+- 🌐 &nbsp; PHP
+
+<br/>
